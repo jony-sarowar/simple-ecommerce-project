@@ -19,7 +19,7 @@ This is a **simple yet functional e-commerce website** built with `Node.js`, `Ex
 - **Frontend:** Bootstrap, EJS
 - **Additional Packages:** (nodemon,socket.io,multer,body-parser)
 - **Database:** (json)
-- 
+
 ## 📦 Installation & Setup
 To run this project locally, follow these steps:</br>
 1️⃣ Clone the repository:</br>
@@ -27,7 +27,7 @@ To run this project locally, follow these steps:</br>
 3️⃣ Start the server: (npm start)</br>
 4️⃣ Open in browser:</br>
 
-💡 Feel free to contribute or provide suggestions!
-📧 Contact me if you have any questions.
+💡 Feel free to contribute or provide suggestions!</br>
+📧 Contact me if you have any questions.</br>
 #HappyCoding 🚀🎉
 
